@@ -9,6 +9,9 @@ header {
 }
 nav, h1 {
     text-align: center;
+    margin: 15px;
+    height: 30px;
+    font-size: 18px;
 }
 section {
     text-align: center;
@@ -19,8 +22,10 @@ section {
 }
 aside {
     text-align: center;
-    display: block;
     float: right;
+    width: 360px;
+    padding: 15px;
+    margin: 15px;
 
 }
 footer {
