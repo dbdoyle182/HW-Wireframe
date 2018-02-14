@@ -15,8 +15,8 @@ section {
     text-align: center;
     float: left;
     width: 50%;
-    padding: 30px 15px 15px;
-    margin: 10px 10px 10px 5px;
+    padding: 30px 15px 5px;
+    margin: 10px 10px 15px 5px;
     height: 235px;
 
 }
@@ -24,8 +24,8 @@ aside {
     text-align: center;
     float: left;
     width: 41%;
-    padding: 30px 15px 15px;
-    margin: 10px 0px 10px 5px;
+    padding: 30px 15px 5px;
+    margin: 10px 0px 15px 5px;
     height: 235px;
 }
 footer {
