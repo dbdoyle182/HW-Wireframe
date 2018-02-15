@@ -1,8 +1,7 @@
 body {
     background-color: #777777;
     width: 960px;
-    margin-right: auto;
-    margin-left: auto;
+    margin: 0 auto;
 }
 
 nav, h1 {
@@ -44,7 +43,6 @@ footer {
 article {
     background-color: #777777;
     color: #ebebeb;
-    border: solid;
     padding: 15px 1px 5px;
     margin: 25px 10px 0px;
 }
